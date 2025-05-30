@@ -1,2 +1,3 @@
-Jenkins
-Docker
+CI/CD: Jenkins, GitHub Actions
+IaC: Terraform, Ansible
+Monitoring: Prometheus, Grafana
