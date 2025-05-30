@@ -1,3 +1,3 @@
-amar
-akbar
-anthony
+amar - DevOps Engg
+akbar - Frontend Engg
+anthony - Backend Engg
