@@ -1,3 +1,4 @@
+Scripting: bash, python, Go
 CI/CD: Jenkins (enterprise-grade), GitHub Actions
 IaC: Terraform, Ansible
 Monitoring: Prometheus, Grafana, Datadog
